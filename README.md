@@ -1,4 +1,4 @@
-# YogDDSExport v0.1
+# YogDDSExportRE2 v0.1
 
 ## About
 
